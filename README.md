@@ -7,5 +7,8 @@ Different HMM profiles were built with different objectives in mind.
 3. LysM1, LysM2, LysM3 and LysM1-3: These HMM profiles were built from the LysM_i extracted from the LysM-3B structural alignment.
 4. CO, LCO and PGN profiles: These profiles were built from the LysM-3B sub-alignments of RLK/Ps with experimentally determined ligand specificity. All the combinations of HMM were built. LysM-3B X [CO,LCO,PGN]; [LysM1,LysM2,LysM3] X [CO,LCO,PGN]; and [LysM1,LysM2,LysM3] X [Region II, Region IV ]X [CO,LCO,PGN]
 
+## Supplementary files
+The supplementary material can be found [Here](https://github.com/maurijlozano/Plant-LysM-Domain-HMM/tree/main/Supplemetary%20files).
+
 ## Cite
 If you use these profiles pleas cite: 

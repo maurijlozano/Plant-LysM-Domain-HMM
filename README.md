@@ -11,4 +11,5 @@ Different HMM profiles were built with different objectives in mind.
 The supplementary material can be found [Here](https://github.com/maurijlozano/Plant-LysM-Domain-HMM/tree/main/Supplemetary%20files).
 
 ## Cite
-If you use these profiles pleas cite: 
+If you use these profiles please cite: 
+1. Improved detection and phylogenetic analysis of plant proteins containing LysM domains. 2023. Dardo Dallachiesa, O. Mario Aguilar, Mauricio J Lozano. bioRxiv 2023.06.21.545963; doi: ttps://doi.org/10.1101/2023.06.21.545963
